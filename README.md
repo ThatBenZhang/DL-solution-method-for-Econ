@@ -1,1 +1,1 @@
-# DL-solution-method-with-all-in-one-expectation-operator
+DL solution method for computational Economics problems
